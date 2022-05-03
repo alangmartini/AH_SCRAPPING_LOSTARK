@@ -17,6 +17,6 @@ Put your windows bar to the left as well. Honestly, this should've been made wit
 Take a screenshot of every tab you want to search, and cut it with only the name
 eg: Gemchest, Pets, Mounts.
 
-This currently does not support multiple tabs. Since i  made for my own use, and i
+This currently does not support multiple pages of each tabs. Since i  made for my own use, and i
 only cared about about gathering and ship parts prices.
 '''
